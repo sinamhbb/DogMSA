@@ -1,0 +1,5 @@
+/.idea/
+/DogMicroservice/target/
+/DogMicroservice/.mvn/
+/eureka/target/
+/eureka/.idea
